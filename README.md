@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SICKSHANK
-- 👀 I’m interested in Robotics and Automation
+- 👋 Hi, I’m @SHASHANK M
+- 👀 I’m interested in Robotics, Automation and AI
 - 🌱 I’m currently learning ROS, Python,Adams View, Open CV etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

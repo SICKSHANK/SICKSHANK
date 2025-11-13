@@ -1,12 +1,4 @@
 - 👋 Hi, I’m @SHASHANK M
 - 👀 I’m interested in Robotics, Automation and AI
 - 🌱 I’m currently learning ROS, Python,Adams View, Open CV etc
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-SICKSHANK/SICKSHANK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️ I’m looking to collaborate with like minded people here's my email shashankmahesh824@gmail.com
